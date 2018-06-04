@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Demo</string>
+    <string name="loremipsum">Lorem Ipsum Dolor Sit Amet</string>
+    <string name="room_name">Nama Ruangan</string>
+    <string name="value_width">Lebar</string>
+    <string name="value_height">Tinggi</string>
+</resources>
